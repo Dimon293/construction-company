@@ -1,0 +1,56 @@
+﻿<Window x:Class="ConstructionCompany.AddObject"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConstructionCompany"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterOwner"
+        Title="Добавить объект" HorizontalAlignment="Center" ResizeMode="NoResize" WindowStyle="ToolWindow" Width="503.468" Height="222.18" Icon="Icons/main.png">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}" x:Key="ToolButton">
+            <Style.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="RenderOptions.BitmapScalingMode" Value="HighQuality"/>
+                    <Setter Property="RenderOptions.EdgeMode" Value="Unspecified"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Height" Value="24"/>
+            <Setter Property="Width" Value="24"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Border.CornerRadius" Value="4"/>
+        </Style>
+    </Window.Resources>
+    <Grid Height="196" VerticalAlignment="Top" Margin="0,0,-6,-2" >
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="button_addobject" Margin="412,137,47,0"  Height="40" HorizontalContentAlignment="Center" VerticalAlignment="Top" Width="40" Style="{StaticResource ToolButton}" Click="button_addobject_Click" Grid.Column="1" ToolTip="Добавить">
+            <Image Source="Icons/ok.png" Margin="1, 1, 1, 1"/>
+        </Button>
+
+        <TextBox Text="{Binding Address}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="96,7,47,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+        <TextBox Text="{Binding Area}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="96,38,47,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+        <ComboBox x:Name="comboBox_ObjectTypeName" Text="{Binding ObjectTypeName}" VerticalAlignment="Top" Margin="96,69,47,0" Grid.Column="1" Height="26" VerticalContentAlignment="Center" FontSize="16" IsEditable="True"/>
+        <ComboBox x:Name="comboBox_CustomerName" Text="{Binding CustomerName}" VerticalAlignment="Top" Margin="96,100,47,0" Grid.Column="1" Height="26" VerticalContentAlignment="Center" FontSize="16" IsEditable="True"/>
+
+        <Label Content="Адрес" VerticalAlignment="Top" Margin="10,7,407,0" Height="26" Grid.Column="1"/>
+        <Label Content="Площадь" VerticalAlignment="Top" Margin="10,38,407,0" Height="26" Grid.Column="1"/>
+        <Label Content="Тип объекта" VerticalAlignment="Top" Margin="10,69,407,0" Height="26" Grid.Column="1"/>
+        <Label Content="Заказчик" VerticalAlignment="Top" Margin="10,100,407,0" Height="26" Grid.Column="1"/>
+
+        <Button x:Name="button_addcustomer" Grid.Column="1" Margin="453,100,10,0" VerticalAlignment="Top" Style="{StaticResource ToolButton}" RenderTransformOrigin="0.571,0.133" Height="26" Click="Button_Click_2" Width="26" ToolTip="Добавить нового заказчика">
+            <Image Source="Icons/add.png" Margin="1, 1, 1, 1" />
+        </Button>
+
+    </Grid>
+</Window>

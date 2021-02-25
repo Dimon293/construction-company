@@ -1,0 +1,67 @@
+﻿<Window x:Class="ConstructionCompany.AddWorker"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConstructionCompany"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterOwner"
+        Title="Добавить работника" HorizontalAlignment="Center" ResizeMode="NoResize" WindowStyle="ToolWindow" Width="510.333" Height="375.3" Icon="Icons/main.png">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}" x:Key="ToolButton">
+            <Style.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="RenderOptions.BitmapScalingMode" Value="HighQuality"/>
+                    <Setter Property="RenderOptions.EdgeMode" Value="Unspecified"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Height" Value="24"/>
+            <Setter Property="Width" Value="24"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Border.CornerRadius" Value="4"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,0,-6" HorizontalAlignment="Left" Width="504">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="504"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="button_addwork" Margin="419,0,45,15"  Height="40" HorizontalContentAlignment="Center" VerticalAlignment="Bottom" Width="40" Style="{StaticResource ToolButton}" Click="button_addworker_Click" Grid.Column="1" ToolTip="Добавить">
+            <Image Source="Icons/ok.png" Margin="0, 0, 0, 0"/>
+        </Button>
+        <Label Content="Фамилия" VerticalAlignment="Top" Margin="10,41,374,0" Height="26" Grid.Column="1"/>
+        <Label Content="Бригада" VerticalAlignment="Top" Margin="10,10,374,0" Height="26" Grid.Column="1"/>
+        <Label Content="Отчество" VerticalAlignment="Top" Margin="10,103,374,0" Height="26" Grid.Column="1"/>
+        <Label Content="Имя" VerticalAlignment="Top" Margin="10,72,374,0" Height="26" Grid.Column="1"/>
+        <ComboBox x:Name="comboBox_BrigadeName" Text="{Binding BrigadeName}" VerticalAlignment="Top" Margin="130,10,45,0" Grid.Column="1" Height="26" VerticalContentAlignment="Center" FontSize="16" IsEditable="True"/>
+        <TextBox Text="{Binding LastName}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="130,41,45,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+        <TextBox Text="{Binding FirstName}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="130,72,45,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+        <TextBox Text="{Binding Patronymic}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="130,103,45,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+        <Label Content="Дата рождения" VerticalAlignment="Top" Margin="10,134,374,0" Height="26" Grid.Column="1"/>
+        <DatePicker Text="{Binding Birthday, Mode=TwoWay}" Grid.Column="1" Margin="130,134,45,0" VerticalAlignment="Top" Height="26" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="14"/>
+        
+        
+
+        <Label Content="Паспорт" VerticalAlignment="Top" Margin="13,165,374,0" Height="26" Grid.Column="1"/>
+        <TextBox x:Name="textBox_Passportnumber" Text="{Binding PassportNumber}" Height="25" TextWrapping="Wrap" VerticalAlignment="Top" Margin="130,165,45,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+        <Label Content="Адрес" VerticalAlignment="Top" Margin="13,195,374,0" Height="26" Grid.Column="1"/>
+        <TextBox x:Name="textBox_Address" Text="{Binding Address}" Height="25" TextWrapping="Wrap" VerticalAlignment="Top" Margin="130,195,45,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+
+        <Label Content="Телефон" VerticalAlignment="Top" Margin="10,226,374,0" Height="26" Grid.Column="1"/>
+        <TextBox Text="{Binding Phone}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="130,226,45,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+        <Label Content="Опыт" VerticalAlignment="Top" Margin="10,257,374,0" Height="26" Grid.Column="1"/>
+        <TextBox Text="{Binding Experience}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="130,257,45,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+        <Button x:Name="button_addbrigade" Grid.Column="1" Margin="464,10,14,0" VerticalAlignment="Top" Style="{StaticResource ToolButton}" RenderTransformOrigin="0.571,0.133" Height="26" Click="Button_Click" Width="26" ToolTip="Добавить новую бригаду">
+            <Image Source="Icons/add.png" Margin="0, 0, 0, 0" Width="26" Height="26"/>
+        </Button>
+
+    </Grid>
+</Window>

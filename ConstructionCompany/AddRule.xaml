@@ -1,0 +1,59 @@
+﻿<Window x:Class="ConstructionCompany.ViewModels.AddRule"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConstructionCompany.ViewModels"
+        mc:Ignorable="d"
+        Title="Добавление правила" Height="435.932" Width="426.894" ResizeMode="NoResize" Icon="Icons/main.png">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}" x:Key="ToolButton">
+            <Style.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="RenderOptions.BitmapScalingMode" Value="HighQuality"/>
+                    <Setter Property="RenderOptions.EdgeMode" Value="Unspecified"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Height" Value="24"/>
+            <Setter Property="Width" Value="24"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Border.CornerRadius" Value="4"/>
+        </Style>
+    </Window.Resources>
+    <Grid Height="407" VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="72"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="36"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="74"/>
+        </Grid.RowDefinitions>
+        <Label Content="Вид работы" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.22,-1.669" Width="84" Height="26"/>
+        <ComboBox x:Name="comboBox_WorkName" HorizontalAlignment="Left" Margin="136,14,0,0" VerticalAlignment="Top" Width="238" Height="22"/>
+        <Label Content="Материал" HorizontalAlignment="Left" Margin="10,43,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.22,-1.669" Width="84" Height="26"/>
+        <ComboBox x:Name="comboBox_MaterialName" HorizontalAlignment="Left" Margin="136,47,0,0" VerticalAlignment="Top" Width="238" Height="22" IsEditable="True"/>
+        <Button x:Name="button_AddMaterial" RenderTransformOrigin="4.942,2.617" VerticalAlignment="Top" Height="26" Width="26" Style="{StaticResource ToolButton}" Margin="379,46,0,0" HorizontalAlignment="Left" Click="button_AddMaterial_Click" ToolTip="Добавить материал в список необходимых">
+            <Image Source="Icons/add.png" Margin="0, 0, 0, 0" Height="24" Width="24"/>
+        </Button>
+        <Label Content="Материалы, &#xD;&#xA;необходимые для &#xD;&#xA;выполнения &#xD;&#xA;текущего вида &#xD;&#xA;работы" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.22,-1.669" Width="121" Height="90" Grid.Row="1"/>
+        <Button x:Name="button_DelMaterial"  Margin="379,35,0,0" RenderTransformOrigin="0.453,-4.25" Style="{StaticResource ToolButton}" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="26" Grid.Row="1" Click="button_DelMaterial_Click" ToolTip="Удалить материал из списка необходимых">
+            <Image Source="Icons/del.png" Margin="0, 0, 0, 0" Width="24" Height="24"/>
+        </Button>
+        <Button x:Name="button_AddRule" Margin="334,0,35,20"  Height="40" HorizontalContentAlignment="Center" VerticalAlignment="Bottom" Width="Auto" Style="{StaticResource ToolButton}" Grid.Row="4" Click="button_AddRule_Click" ToolTip="Добавить">
+            <Image Source="Icons/ok.png"  Margin="0, 0, 0, 0" VerticalAlignment="Top"/>
+        </Button>
+        <ListBox x:Name="listBox_Materials" HorizontalAlignment="Left" Height="90" Margin="136,5,0,0" VerticalAlignment="Top" Width="238" Grid.Row="1"/>
+        <Label Content="Техника" HorizontalAlignment="Left" Margin="10,4,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.22,-1.669" Width="84" Height="26" Grid.Row="2"/>
+        <ComboBox x:Name="comboBox_MachineryName" HorizontalAlignment="Left" Margin="136,8,0,0" VerticalAlignment="Top" Width="238" Height="22" Grid.Row="2" IsEditable="True"/>
+        <Button x:Name="button_AddMachinery" RenderTransformOrigin="4.942,2.617" VerticalAlignment="Top" Height="26" Width="26" Style="{StaticResource ToolButton}" Margin="379,5,0,0" HorizontalAlignment="Left" Grid.Row="2" Click="button_AddMachinery_Click" ToolTip="Добавить технику в список необходимой">
+            <Image Source="Icons/add.png" Margin="0, 0, 0, 0" Height="24" Width="24"/>
+        </Button>
+        <Label Content="Техника, &#xA;необходимая для &#xA;выполнения &#xA;текущего вида &#xA;работы" HorizontalAlignment="Left" Margin="10,6,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.22,-1.669" Width="121" Height="90" Grid.Row="3"/>
+        <Button x:Name="button_DelMachinery"  Margin="379,36,0,0" RenderTransformOrigin="0.453,-4.25" Style="{StaticResource ToolButton}" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="26" Grid.Row="3" Click="button_DelMachinery_Click" ToolTip="Удалить технику из списка необходимой">
+            <Image Source="Icons/del.png" Margin="0, 0, 0, 0" Width="24" Height="24"/>
+        </Button>
+        <ListBox x:Name="listBox_Machinery" HorizontalAlignment="Left" Height="90" Margin="136,6,0,0" VerticalAlignment="Top" Width="238" Grid.Row="3"/>
+    </Grid>
+</Window>

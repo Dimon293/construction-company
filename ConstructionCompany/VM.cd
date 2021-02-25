@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConstructionCompany.ViewModels.ActiveBrigadesViewModel">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ActiveBrigadesViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.BrigadesViewModel">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAASAAACAACAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\BrigadesViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.CustomersViewModel">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAASAAACAAAAAAAQAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\CustomersViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.LastMaterialsViewModel">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQABACAAAAAAAAAQAAAAAAAAAAAIIAAAAAAA=</HashCode>
+      <FileName>ViewModels\LastMaterialsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.LastOrdersViewModel">
+    <Position X="9.5" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAQAAACAAAAAAAAAQAAAAAAAAAAAIgAAAAAAA=</HashCode>
+      <FileName>ViewModels\LastOrdersViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.MachineryInBrigadesByOrderViewModel">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAABAAAAAAAAAAAQAAAAAAEAAAE=</HashCode>
+      <FileName>ViewModels\MachineryInBrigadesByOrderViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.BrigadeMachinery">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACAABAAAAgACAAAAAAAIAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>ViewModels\MachineryInBrigadesByOrderViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.MachineryViewModel">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAASAAACAAAAAAAQAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ViewModels\MachineryViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.MaterialsInBrigadesByOrderViewModel">
+    <Position X="15.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>ViewModels\MaterialsInBrigadesByOrderViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.BrigadeMaterials">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAACAAAAAAAyAAAAAAAAAIAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\MaterialsInBrigadesByOrderViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.MaterialCountVM">
+    <Position X="13.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\MaterialsInBrigadesByOrderViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.MaterialsViewModel">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAASAAACAAAAAAAQAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\MaterialsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.ObjectsViewModel">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAASAgACAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ObjectsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.OrderBrigadeWorkViewModel">
+    <Position X="11.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAhAAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAQABAA=</HashCode>
+      <FileName>ViewModels\OrderBrigadeWorkViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.WorkWithBrigades">
+    <Position X="17" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAwAAAAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\OrderBrigadeWorkViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.OrdersViewModel">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAASAAACAAAAAAAQAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ViewModels\OrdersViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.ViewModelFilter">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModelFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.WorkersViewModel">
+    <Position X="4.25" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAASAAACAAAAAAAQAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ViewModels\WorkersViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ViewModels.WorksViewModel">
+    <Position X="7.75" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAACSAAACAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\WorksViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

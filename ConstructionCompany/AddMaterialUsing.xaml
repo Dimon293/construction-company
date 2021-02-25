@@ -1,0 +1,60 @@
+﻿<Window x:Class="ConstructionCompany.AddMaterialUsing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConstructionCompany"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterOwner"
+        Title="Использование материалов" HorizontalAlignment="Center" ResizeMode="NoResize" WindowStyle="ToolWindow" Width="482.997" Height="223.967" Icon="Icons/main.png">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}" x:Key="ToolButton">
+            <Style.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="RenderOptions.BitmapScalingMode" Value="HighQuality"/>
+                    <Setter Property="RenderOptions.EdgeMode" Value="Unspecified"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Height" Value="24"/>
+            <Setter Property="Width" Value="24"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Border.CornerRadius" Value="4"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,0,-3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="246"/>
+        </Grid.RowDefinitions>
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0"/>
+            <ColumnDefinition Width="547"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="button_addmaterialusing" Margin="384,0,123,68"  Height="40" HorizontalContentAlignment="Center" VerticalAlignment="Bottom" Width="40" Style="{StaticResource ToolButton}"  Grid.Column="1" Click="button_addmaterialusing_Click" ToolTip="Добавить">
+            <Image Source="Icons/ok.png" Margin="0, 0, 0, 0"/>
+        </Button>
+
+        <ComboBox x:Name="comboBox_MaterialName"  Text="{Binding MaterialName}"  VerticalAlignment="Top" Margin="111,10,123,0" Grid.Column="1" Height="26" VerticalContentAlignment="Center" FontSize="16" IsEditable="True" SelectionChanged="comboBox_MaterialName_SelectionChanged" />
+
+        <TextBox x:Name="textBox_Count" Text="{Binding Count}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="111,42,123,0" Grid.Column="1" VerticalContentAlignment="Center" RenderTransformOrigin="0.462,0.487" FontSize="16" TextChanged="TextBox_TextChanged"/>
+        <DatePicker Text="{Binding Date, Mode=TwoWay}" Grid.Column="1" Margin="111,73,123,0" VerticalAlignment="Top" Height="26" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" RenderTransformOrigin="0.436,0.474" FontSize="14"/>
+
+        <!--<TextBox Text="{Binding CountingPrice}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="111,104,123,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>-->
+        <Label x:Name="countingPrice" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="111,104,0,0" VerticalAlignment="Top" Width="313" Height="26" Content="{Binding Price, UpdateSourceTrigger=PropertyChanged}" Background="WhiteSmoke"/>
+
+        <Label Content="Материал" VerticalAlignment="Top" Margin="10,10,455,0" Height="26" Grid.Column="1"/>
+        <Label Content="Количество" VerticalAlignment="Top" Margin="10,42,455,0" Height="26" Grid.Column="1"/>
+        <Label Content="Дата" VerticalAlignment="Top" Margin="10,73,455,0" Height="26" Grid.Column="1"/>
+        <Label Content="Стоимость" VerticalAlignment="Top" Margin="10,104,455,0" Height="26" Grid.Column="1"/>
+
+        <Button x:Name="button_addbrigade" Grid.Column="1" Margin="429,10,0,0" VerticalAlignment="Top" Style="{StaticResource ToolButton}" RenderTransformOrigin="0.571,0.133" Height="26" Click="Button_Click" Width="26" HorizontalAlignment="Left" ToolTip="Добавить новый материал">
+            <Image Source="Icons/add.png" Margin="0, 0, 0, 0"/>
+        </Button>
+
+
+    </Grid>
+</Window>

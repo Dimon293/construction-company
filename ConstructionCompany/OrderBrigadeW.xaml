@@ -1,0 +1,69 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConstructionCompany"
+        xmlns:Models="clr-namespace:ConstructionCompany.Models" x:Class="ConstructionCompany.OrderBrigadeW"
+        mc:Ignorable="d"
+                WindowStartupLocation="CenterOwner"
+        Title="Бригады, выполняющие заказ" Height="251.862" Width="554.956" Icon="Icons/main.png">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}" x:Key="ToolButton">
+            <Style.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="RenderOptions.BitmapScalingMode" Value="HighQuality"/>
+                    <Setter Property="RenderOptions.EdgeMode" Value="Unspecified"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Height" Value="24"/>
+            <Setter Property="Width" Value="24"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Border.CornerRadius" Value="4"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="21"/>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="99"/>
+            <RowDefinition Height="49*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="128*"/>
+            <ColumnDefinition Width="37"/>
+            <ColumnDefinition Width="127*"/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid x:Name="BrigadeInOrderDG" Margin="10,2,4,10"  
+                      
+            AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single"
+            SelectionUnit="FullRow" ItemsSource="{Binding BrigadesCollection}" Grid.RowSpan="3" Grid.Row="1" Background="White" HeadersVisibility="Column" FontSize="14">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Name}" Header="Название" Width="1*"/>
+                <DataGridTextColumn Binding="{Binding WorkName}" Header="Вид работы" Width="1*"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="BrigadeLeftDG" Margin="4,2,10,10"  
+                      
+            AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single"
+            SelectionUnit="FullRow" ItemsSource="{Binding Items}" Grid.Column="2" Grid.RowSpan="3" Grid.Row="1" Background="White" HeadersVisibility="Column" FontSize="14">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Name}" Header="Название" Width="1*"/>
+                <DataGridTextColumn Binding="{Binding WorkName}" Header="Вид работы" Width="1*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Бригады в заказе" HorizontalAlignment="Left" Margin="10,-5,0,0" VerticalAlignment="Top" Width="243" Height="26"/>
+        <Label Content="Оставшиеся бригады" Margin="4,-5,0,0" VerticalAlignment="Top" Grid.Column="2" Height="26"/>
+        <Button x:Name="AddBrigade" HorizontalAlignment="Left" Margin="2,2,0,0" Style="{StaticResource ToolButton}" VerticalAlignment="Top" Width="33" RenderTransformOrigin="-0.143,-0.9" Height="38" Grid.Column="1" Grid.Row="2" Click="AddBrigade_Click">
+            <Image Source="Icons/leftA.png" Margin="0, 0, 0, 0" Height="28" Width="28"/>
+        </Button>
+        <Button x:Name="DelBrigade" HorizontalAlignment="Left" Margin="2,58,0,0" Style="{StaticResource ToolButton}" VerticalAlignment="Top" Width="33" RenderTransformOrigin="-0.143,-0.9" Height="38" Grid.Column="1" Grid.Row="2" Click="DelBrigade_Click">
+            <Image Source="Icons/rightA.png" Margin="0, 0, 0, 0" Height="28" Width="28"/>
+        </Button>
+
+    </Grid>
+</Window>

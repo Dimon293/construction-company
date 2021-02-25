@@ -1,0 +1,48 @@
+﻿<Window x:Class="ConstructionCompany.AddWork"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConstructionCompany"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterOwner"
+        Title="Добавить работу" HorizontalAlignment="Center" ResizeMode="NoResize" WindowStyle="ToolWindow" Width="464.333" Height="189.843" Icon="Icons/main.png">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}" x:Key="ToolButton" >
+            <Style.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="RenderOptions.BitmapScalingMode" Value="HighQuality"/>
+                    <Setter Property="RenderOptions.EdgeMode" Value="Unspecified"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Height" Value="24"/>
+            <Setter Property="Width" Value="24"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Border.CornerRadius" Value="4"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="116"/>
+        </Grid.RowDefinitions>
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="453"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="button_addwork" Margin="400,0,13,-26"  Height="40" HorizontalContentAlignment="Center" VerticalAlignment="Bottom" Width="40" Style="{StaticResource ToolButton}" Click="button_addwork_Click" Grid.Column="1" ToolTip="Добавить">
+            <Image Source="Icons/ok.png" Margin="0, 0, 0, 0"/>
+        </Button>
+        <Label Content="Тип работ" VerticalAlignment="Top" Margin="10,10,305,0" Height="26" Grid.Column="1"/>
+        <ComboBox x:Name="comboBox_WorkTypeName" Text="{Binding WorkTypeName}" VerticalAlignment="Top" Margin="148,10,13,0" Grid.Column="1" Height="26" VerticalContentAlignment="Center" FontSize="16" IsEditable="True"/>
+        <TextBox Text="{Binding WorkName}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="148,41,13,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+        <Label Content="Стоимость (по тарифу)" VerticalAlignment="Top" Margin="10,72,305,0" Height="26" Grid.Column="1"/>
+        <Label Content="Название" VerticalAlignment="Top" Margin="10,41,305,0" Height="26" Grid.Column="1" RenderTransformOrigin="0.5,1.218"/>
+        <TextBox Text="{Binding Tariff}" Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="148,72,13,0" Grid.Column="1" VerticalContentAlignment="Center" FontSize="16"/>
+
+    </Grid>
+</Window>

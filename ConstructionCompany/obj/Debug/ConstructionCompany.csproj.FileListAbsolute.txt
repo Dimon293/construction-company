@@ -1,0 +1,502 @@
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddBrigade.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddMaterial.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddObject.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddSpecialty.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddWorker.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\MainWindow.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddMaterialsUsing.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\App.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.cache
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.lref
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\bin\Debug\ConstructionCompany.exe.config
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\bin\Debug\ConstructionCompany.exe
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\bin\Debug\ConstructionCompany.pdb
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddBrigade.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddMaterial.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddObject.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddSpecialty.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddWorker.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\MainWindow.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddMaterialsUsing.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany.g.resources
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany.Properties.Resources.resources
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.GenerateResource.Cache
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany.exe
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany.pdb
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\Works.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\Works.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddWork.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddWork.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany.csprojResolveAssemblyReference.cache
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddCustomer.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\AddCustomer.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\Table.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\Table.baml
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\New.g.cs
+C:\Users\super\Documents\Visual Studio 2017\Projects\ConstructionCompany\ConstructionCompany\obj\Debug\New.baml
+E:\ConstructionCompany\ConstructionCompany\bin\Debug\ConstructionCompany.exe.config
+E:\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany.exe
+E:\ConstructionCompany\ConstructionCompany\obj\Debug\ConstructionCompany.pdb
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\bin\Debug\ConstructionCompany.exe.config
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\bin\Debug\ConstructionCompany.exe
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\bin\Debug\ConstructionCompany.pdb
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\ConstructionCompany.csprojResolveAssemblyReference.cache
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddBrigade.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddCustomer.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddMaterial.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddObject.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddSpecialty.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddWorker.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddWork.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\MainWindow.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddMaterialsUsing.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\New.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\Table.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\Works.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\App.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.cache
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.lref
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddBrigade.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddCustomer.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddMaterial.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddObject.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddSpecialty.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddWorker.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddWork.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\MainWindow.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\AddMaterialsUsing.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\New.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\Table.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\Works.baml
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\ConstructionCompany.g.resources
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\ConstructionCompany.Properties.Resources.resources
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.GenerateResource.Cache
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.CoreCompileInputs.cache
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\ConstructionCompany.exe
+C:\Users\Dimka\Desktop\ConstructionCompany - копия\ConstructionCompany\obj\Debug\ConstructionCompany.pdb
+D:\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.exe.config
+D:\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.exe
+D:\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.pdb
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csprojResolveAssemblyReference.cache
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddBrigade.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddCustomer.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterial.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddObject.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddSpecialty.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWorker.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWork.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MainWindow.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialsUsing.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\New.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Table.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Works.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\App.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.cache
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.lref
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddBrigade.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddCustomer.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterial.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddObject.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddSpecialty.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWorker.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWork.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MainWindow.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialsUsing.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\New.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Table.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Works.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.g.resources
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.Properties.Resources.resources
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.GenerateResource.Cache
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.CoreCompileInputs.cache
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.exe
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.pdb
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddOrder.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddOrder.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csprojResolveAssemblyReference.cache
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddBrigade.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddCustomer.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterial.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddObject.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddSpecialty.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWork.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWorker.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddOrder.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Brigade.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MainWindow.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialsUsing.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\New.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderedMaterials.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Table.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Worker.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Works.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\App.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.cache
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.lref
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.exe
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.pdb
+E:\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.exe.config
+E:\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.exe
+E:\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.pdb
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddBrigade.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddCustomer.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterial.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddObject.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddSpecialty.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWork.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWorker.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddOrder.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Brigade.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MainWindow.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialsUsing.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\New.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderedMaterials.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Table.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Worker.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Works.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.g.resources
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.Properties.Resources.resources
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.GenerateResource.Cache
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.CoreCompileInputs.cache
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Brigade.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderedMaterials.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Worker.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Brigade.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderedMaterials.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Worker.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Contractor.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Customer.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Order.g.cs
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Contractor.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Customer.baml
+D:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Order.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Contractor.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Customer.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Order.g.cs
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Contractor.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Customer.baml
+E:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Order.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.exe.config
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.exe
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.pdb
+F:\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.exe
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csprojResolveAssemblyReference.cache
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddBrigade.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddCustomer.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterial.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddObject.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddSpecialty.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWork.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWorker.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddOrder.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Brigade.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Contractor.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Customer.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MainWindow.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialsUsing.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\New.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Order.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderedMaterials.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Table.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Worker.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Works.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\App.g.cs
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.cache
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.lref
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddBrigade.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddCustomer.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterial.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddObject.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddSpecialty.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWork.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWorker.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddOrder.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Brigade.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Contractor.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Customer.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MainWindow.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialsUsing.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\New.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Order.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderedMaterials.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Table.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Worker.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\Works.baml
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.g.resources
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.Properties.Resources.resources
+F:\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.GenerateResource.Cache
+F:\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.pdb
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csprojResolveAssemblyReference.cache
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddBrigade.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddCustomer.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterial.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddObject.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWork.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWorker.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddOrder.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\BrigadeW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\CustomerW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MainWindow.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialUsing.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MaterialUsingW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\WorkerW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\WorkW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\App.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.cache
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.lref
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MaterialW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.exe.config
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.exe
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.pdb
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\MySql.Data.dll
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\MySql.Data.xml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddBrigade.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddCustomer.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterial.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddObject.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWork.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWorker.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddOrder.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\BrigadeW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\CustomerW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialUsing.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MainWindow.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MaterialW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MaterialUsingW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\WorkerW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\WorkW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.g.resources
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.Properties.Resources.resources
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.GenerateResource.Cache
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.CoreCompileInputs.cache
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.exe
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.pdb
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderBrigadeW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderBrigadeW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ObjectW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ObjectW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderBrigadeWorkW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderBrigadeWorkW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddRule.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddRule.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachinery.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MachineryUsingW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MachineryW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachinery.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MachineryUsingW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MachineryW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RuleMachineryW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RuleMaterialW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RuleMachineryW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RuleMaterialW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RulesW.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RulesW.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachineryUsing.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachineryUsing.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddDateMU.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddAreaOB.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddDateMU.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddAreaOB.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachineryInRule.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialInRule.g.cs
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachineryInRule.baml
+C:\Users\Dimka\Desktop\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialInRule.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.exe.config
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.exe
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\ConstructionCompany.pdb
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\MySql.Data.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\MySql.Data.xml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csprojAssemblyReference.cache
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddBrigade.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddCustomer.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddDateMU.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachinery.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachineryInRule.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterial.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachineryUsing.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialInRule.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddObject.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWork.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWorker.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddOrder.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddAreaOB.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\BrigadeW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\CustomerW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialUsing.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MachineryUsingW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MachineryW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MainWindow.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MaterialW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MaterialUsingW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderBrigadeW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ObjectW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderBrigadeWorkW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RuleMachineryW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RuleMaterialW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddRule.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RulesW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\WorkerW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\WorkW.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\App.g.cs
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.cache
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany_MarkupCompile.lref
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddBrigade.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddCustomer.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddDateMU.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachinery.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachineryInRule.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterial.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMachineryUsing.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialInRule.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddObject.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWork.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddWorker.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddOrder.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddAreaOB.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\BrigadeW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\CustomerW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddMaterialUsing.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MachineryUsingW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MachineryW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MainWindow.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MaterialW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\MaterialUsingW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderBrigadeW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ObjectW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderBrigadeWorkW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\OrderW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RuleMachineryW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RuleMaterialW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\AddRule.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\RulesW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\WorkerW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\WorkW.baml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.g.resources
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.Properties.Resources.resources
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.GenerateResource.cache
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.CoreCompileInputs.cache
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.csproj.CopyComplete
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.exe
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.pdb
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\netstandard.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.AppContext.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Collections.Concurrent.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Collections.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Collections.NonGeneric.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Collections.Specialized.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.ComponentModel.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Console.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Data.Common.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Diagnostics.Debug.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Diagnostics.Process.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Diagnostics.Tools.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Drawing.Primitives.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Dynamic.Runtime.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Globalization.Calendars.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Globalization.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Globalization.Extensions.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.Compression.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.FileSystem.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.Pipes.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Linq.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Linq.Expressions.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Linq.Parallel.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Linq.Queryable.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.Http.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.NameResolution.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.NetworkInformation.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.Ping.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.Primitives.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.Requests.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.Security.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.Sockets.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Net.WebSockets.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.ObjectModel.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Reflection.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Reflection.Extensions.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Reflection.Primitives.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Resources.Reader.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Resources.ResourceManager.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Resources.Writer.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.Extensions.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.Handles.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.InteropServices.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.Numerics.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Security.Claims.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Security.Principal.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Security.SecureString.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Text.Encoding.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Text.RegularExpressions.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Threading.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Threading.Overlapped.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Threading.Tasks.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Threading.Thread.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Threading.ThreadPool.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Threading.Timer.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.ValueTuple.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Xml.XDocument.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Xml.XmlDocument.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Xml.XPath.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\BouncyCastle.Crypto.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\Google.Protobuf.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\K4os.Compression.LZ4.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\K4os.Hash.xxHash.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\Renci.SshNet.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Buffers.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Memory.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Numerics.Vectors.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\Ubiety.Dns.Core.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\Zstandard.Net.dll
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\Google.Protobuf.xml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\K4os.Compression.LZ4.xml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\K4os.Hash.xxHash.xml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\Renci.SshNet.xml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Buffers.xml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Memory.xml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Numerics.Vectors.xml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Учеба\III курс\БД и ЭС\Курсовой проект\ConstructionCompanyNEW\ConstructionCompany\obj\Debug\ConstructionCompany.exe.config

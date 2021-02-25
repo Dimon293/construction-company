@@ -1,0 +1,71 @@
+﻿<Window x:Class="ConstructionCompany.OrderW"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConstructionCompany"
+        xmlns:models="clr-namespace:ConstructionCompany.Models"
+        mc:Ignorable="d"
+        Title="Заказы" Height="287.862" Width="644.956" Icon="Icons/main.png">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}" x:Key="ToolButton">
+            <Style.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="RenderOptions.BitmapScalingMode" Value="HighQuality"/>
+                    <Setter Property="RenderOptions.EdgeMode" Value="Unspecified"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Height" Value="24"/>
+            <Setter Property="Width" Value="24"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Border.CornerRadius" Value="4"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="205"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="AddOrder" RenderTransformOrigin="4.942,2.617"  VerticalAlignment="Top" Height="26" Width="26" Style="{StaticResource ToolButton}" Margin="10,6,0,0" HorizontalAlignment="Left" Click="AddOrder_Click" ToolTip="Добавить заказ">
+            <Image Source="Icons/add.png" Margin="0, 0, 0, 0" />
+        </Button>
+        <Button x:Name="EditOrder" Margin="41,5,0,0" VerticalAlignment="Top" Height="26" RenderTransformOrigin="-1.569,0.283" Style="{StaticResource ToolButton}" HorizontalAlignment="Left" Width="26" Click="EditOrder_Click" ToolTip="Изменить заказ">
+            <Image Source="Icons/edit.png" Margin="0, 0, 0, 0"/>
+        </Button>
+        <Button x:Name="DeleteOrder" Style="{StaticResource ToolButton}"  Margin="72,6,0,0" RenderTransformOrigin="0.453,-4.25" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="26" Click="DeleteOrder_Click" ToolTip="Редактировать заказ">
+            <Image Source="Icons/del.png" Margin="0, 0, 0, 0"/>
+        </Button>
+        <Button x:Name="BuyMachineryOrder" Style="{StaticResource ToolButton}"  Margin="165,6,0,0" RenderTransformOrigin="0.453,-4.25" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="26" Click="BuyMachineryOrder_Click" ToolTip="Распределение строительной техники">
+            <Image Source="Icons/ma.png" Margin="0, 0, 0, 0"/>
+        </Button>
+        <Button x:Name="BuyMaterialOrder" Style="{StaticResource ToolButton}"  Margin="134,6,0,0" RenderTransformOrigin="0.453,-4.25" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="26" Click="BuyMaterialOrder_Click" ToolTip="Использование материалов">
+            <Image Source="Icons/buy.png" Margin="0, 0, 0, 0"/>
+        </Button>
+        <Button x:Name="AddBrigadeWorkOrder" Style="{StaticResource ToolButton}"  Margin="103,6,0,0" RenderTransformOrigin="0.453,-4.25" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="26" Click="AddBrigadeWorkOrder_Click" ToolTip="Распределение бригад">
+            <Image Source="Icons/w.png" Margin="0, 0, 0, 0"/>
+        </Button>
+        <TextBox Height="26" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,5,10,0" FontSize="16" Grid.Column="1" Text="{Binding FilterText,UpdateSourceTrigger=PropertyChanged}" ToolTip="Поиск"/>
+        <DataGrid x:Name="OrderDG" Margin="10,36,10,10"  
+                       AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single"
+                  SelectionUnit="FullRow" ItemsSource="{Binding Items}" Background="White" HeadersVisibility="Column" FontSize="14" Grid.ColumnSpan="2">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding ObjectAddress}" Header="Объект" Width="1*"/>
+                <DataGridTextColumn Binding="{Binding StartDate}" Header="Дата начала" Width="1*"/>
+                <DataGridTextColumn Binding="{Binding EndDate}" Header="Дата окончания" Width="1*"/>
+                <DataGridTextColumn Binding="{Binding Price}" Header="Цена" Width="1*"/>
+                <DataGridTextColumn Binding="{Binding Note}" Header="Описание" Width="1*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+
+
+    </Grid>
+</Window>

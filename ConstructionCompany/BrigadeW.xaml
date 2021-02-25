@@ -1,0 +1,59 @@
+﻿<Window x:Class="ConstructionCompany.BrigadeW"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConstructionCompany"
+        xmlns:models="clr-namespace:ConstructionCompany.Models"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterOwner"
+        Title="Бригады" Height="287.862" Width="644.956" Icon="Icons/main.png">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}" x:Key="ToolButton">
+            <Style.Resources>
+                <Style TargetType="{x:Type Image}">
+                    <Setter Property="RenderOptions.BitmapScalingMode" Value="HighQuality"/>
+                    <Setter Property="RenderOptions.EdgeMode" Value="Unspecified"/>
+                </Style>
+            </Style.Resources>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Height" Value="24"/>
+            <Setter Property="Width" Value="24"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Border.CornerRadius" Value="4"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="108"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox Height="26" TextWrapping="Wrap" Text="{Binding FilterText,UpdateSourceTrigger=PropertyChanged}" ToolTip="Поиск"  VerticalAlignment="Top" Margin="0,5,10,0" FontSize="16" Grid.Column="1"/>
+        <Button x:Name="AddMaterial" RenderTransformOrigin="4.942,2.617" Click="Button_AddClick" VerticalAlignment="Top" Height="26" Style="{StaticResource ToolButton}" Width="26" Margin="11,6,0,0" HorizontalAlignment="Left" ToolTip="Добавить бригаду">
+            <Image Source="Icons/add.png" Margin="0, 0, 0, 0"/>
+        </Button>
+        <Button x:Name="EditMaterial" Margin="42,5,0,0" VerticalAlignment="Top" Height="26" RenderTransformOrigin="-1.569,0.283" Style="{StaticResource ToolButton}" HorizontalAlignment="Left" Width="26" Click="EditMaterial_Click" ToolTip="Изменить бригаду">
+            <Image Source="Icons/edit.png" Margin="0, 0, 0, 0"/>
+        </Button>
+        <Button x:Name="DeleteMaterial"  Margin="73,6,0,0" Style="{StaticResource ToolButton}" RenderTransformOrigin="0.453,-4.25" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="26" Click="DeleteMaterial_Click" ToolTip="Удалить бригаду">
+            <Image Source="Icons/del.png" Margin="0, 0, 0, 0"/>
+        </Button>
+
+        <DataGrid x:Name="BrigadeDG" Margin="10,36,10,10" AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single"
+                  SelectionUnit="FullRow" ItemsSource="{Binding Items}" Background="White" HeadersVisibility="Column" Grid.ColumnSpan="2" FontSize="14">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Name}" Header="Название" Width="1*"/>
+                <DataGridTextColumn Binding="{Binding BrigadierName}" Header="Бригадир" Width="1*"/>
+                <DataGridTextColumn Binding="{Binding WorkName}" Header="Вид работы" Width="1*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+
+    </Grid>
+
+</Window>

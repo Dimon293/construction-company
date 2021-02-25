@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConstructionCompany.Models.Brigade" BaseTypeListCollapsed="true">
+    <Position X="2" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAQAQAAsAAAAIQAgAAEAQAAAAAAEAAAAAA=</HashCode>
+      <FileName>Models\Brigade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.Customer" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAACAGAAACBAAAAgIAAAAAAAgAAAAAAgAAAAKAAAAAg=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.DataModel">
+    <Position X="9" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AmcgQAAAEABBABAASAACIgAABRAQAAEApBAgAAAEAAQ=</HashCode>
+      <FileName>Models\DataModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.Models.Machinery" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAABAUAgAEFAAAAAAAAAGAAAAA=</HashCode>
+      <FileName>Models\Machinery.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.MachineryType" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAAAAAAgAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>Models\MachineryType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.MachineryUsing" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAKQBAAAAAAEAAAYCAABBAggAIAAAAKAAABCEAAAAg=</HashCode>
+      <FileName>Models\MachineryUsing.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.Material" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAHAAAABQAAAAAAIAAAAAUAgAAFAAAAAAAAAQAAAAE=</HashCode>
+      <FileName>Models\Material.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.MaterialUsing" BaseTypeListCollapsed="true">
+    <Position X="2" Y="6.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AUADAAAAAQACAAAAZAAAAAQAgAIAAAALAAAACQEAAAg=</HashCode>
+      <FileName>Models\MaterialUsing.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.Object" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAAAAAAAAIAAAAAAAwAIAAECCAAAAAQAAAAE=</HashCode>
+      <FileName>Models\Object.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.ObjectType" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAAAAAAgAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>Models\ObjectType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.Order" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QQILgQAAAQAAEAAAICAAAQAggAAAAAAAAgAAAEECAAA=</HashCode>
+      <FileName>Models\Order.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.OrderBrigade" BaseTypeListCollapsed="true">
+    <Position X="9" Y="8" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAABEAQIAAAAAAAgAAAAAAYAAAACQAAAAk=</HashCode>
+      <FileName>Models\OrderBrigade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.OrderWork" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAASAAAAEg=</HashCode>
+      <FileName>Models\OrderWork.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.Rule" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAYAAoAAAQIAAgAEAAIAAAAAAAAAAAAE=</HashCode>
+      <FileName>Models\Rule.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.Work" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACQAAAAAAAAQAAoAAAAIAAgAAAAQAAAAQAAAAEAEA=</HashCode>
+      <FileName>Models\Work.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.Worker" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAACAGAAAABAAAAAIAAAAAgAgAIIAAAiAABAqAAAQIg=</HashCode>
+      <FileName>Models\Worker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConstructionCompany.Models.WorkType" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAAAAAAAIAAAAAAAgAAAABAAAAAQAAEAAAA=</HashCode>
+      <FileName>Models\WorkType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

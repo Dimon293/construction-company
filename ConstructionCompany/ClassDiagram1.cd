@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConstructionCompany.DataAdapters.RuleDataAdapter">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgYAAAAAAAAAAAAAAAAAAAAAABECCAAAAAAAAAAAAQA=</HashCode>
+      <FileName>DataAdapters\RuleDataAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.DataAdapters.DataAdapter">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAUAAAAAAAAAAAACAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>DataAdapters\DataAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.Models.DataModel" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AmcgQAAAEABBABAASAACIgAABRAQAAEApBAgAAAEAAQ=</HashCode>
+      <FileName>Models\DataModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.Models.Rule">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAYAAoAAAQIAAgAEAAIAAAAAAAAAAAAE=</HashCode>
+      <FileName>Models\Rule.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConstructionCompany.ExpertPart.ExpertMaterialCountViewModel">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAABAAAAAAAAAAEAAAAAAAgAAAAAAAI=</HashCode>
+      <FileName>ExpertPart\ExpertViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.ExpertPart.ExpertMachineryViewModel">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>ExpertPart\ExpertViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConstructionCompany.RuleMachineryW">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAEAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAA=</HashCode>
+      <FileName>RuleMachineryW.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConstructionCompany.RuleMaterialW">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAEABAAAAAAAA=</HashCode>
+      <FileName>RuleMaterialW.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
